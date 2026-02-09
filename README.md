@@ -1,16 +1,75 @@
-# React + Vite
+# Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **calculator web application** built with **React** and styled using **CSS**.  
+This project replicates the look and feel of a mobile calculator with a clean UI, smooth button interactions, and basic arithmetic functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- Responsive design (works on desktop & mobile)
+- Glassmorphism-inspired modern UI
+- Supports basic arithmetic operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Clear (C) and Equals (=) functionality
+- Built with **React** and **Vite** for fast development
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**
+- **CSS**
+- **JavaScript**
+
+---
+
+## Getting Started
+
+### Clone the repository
+git clone https://github.com/rushikesh-auti/Calculator.git
+cd Calculator
+
+---
+
+### Install dependencies
+npm install
+
+### Start the development server
+npm run dev
+
+
+### Open your browser and visit:
+http://localhost:5173
+
+---
+
+### Folder Structure
+src/
+├── components/     
+├── App.jsx        
+├── App.css         
+└── main.jsx         
+
+---
+
+### Learning Outcomes
+
+Building reusable components in React
+Managing UI state for calculator logic
+Styling with  CSS
+Using Vite for fast React development
+
+---
+
+### Preview
+<img width="1905" height="905" alt="Screenshot 2026-02-09 201532" src="https://github.com/user-attachments/assets/12eff995-df3f-4d4c-ba6d-fbc3090f8c2e" />
+
+---
+
+### Author
+
+Rushikesh Auti
