@@ -30,7 +30,7 @@ This project replicates the look and feel of a mobile calculator with a clean UI
 ## Getting Started
 
 ### Clone the repository
-git clone https://github.com/rushikesh-auti/Calculator.git
+git clone https://github.com/rushikesh-auti/Calculator.git.
 cd Calculator
 
 ---
@@ -58,10 +58,10 @@ src/
 
 ### Learning Outcomes
 
-Building reusable components in React
-Managing UI state for calculator logic
-Styling with  CSS
-Using Vite for fast React development
+Building reusable components in React.
+Managing UI state for calculator logic.
+Styling with  CSS.
+Using Vite for fast React development.
 
 ---
 
