@@ -1,4 +1,5 @@
 # Calculator
+<<<<<<< HEAD
 
 A modern and responsive calculator web application built using React and styled with CSS.  
 This project recreates the experience of a mobile calculator with a clean interface, smooth interactions, and basic arithmetic functionality.
@@ -97,3 +98,6 @@ Calculator/
 ## Author
 
 Rushikesh Auti
+=======
+Developed a responsive calculator application using React and CSS with support for basic arithmetic operations and a modern UI.
+>>>>>>> 8be890e (Initial commit)
