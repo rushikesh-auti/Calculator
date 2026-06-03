@@ -1,56 +1,52 @@
 # Calculator
-<<<<<<< HEAD
 
 A modern and responsive calculator web application built using React and styled with CSS.  
-This project recreates the experience of a mobile calculator with a clean interface, smooth interactions, and basic arithmetic functionality.
+The application replicates the experience of a standard mobile calculator with a clean interface and smooth user interactions.
 
----
+# Live Demo
+https://calculator-react-72.vercel.app/
 
 ## Features
 
-- Responsive design (works on desktop and mobile devices)
-- Modern glassmorphism-inspired UI
-- Supports basic arithmetic operations:
+- Responsive design for desktop and mobile devices
+- Clean and modern user interface
+- Supports basic arithmetic operations
   - Addition
   - Subtraction
   - Multiplication
   - Division
-- Clear (C) and Equals (=) functionality
-- Developed using React and Vite for fast performance
-
----
+- Clear (C) functionality to reset input
+- Equals (=) functionality to calculate results
+- Component-based architecture using React
+- Fast development environment using Vite
 
 ## Tech Stack
 
 - React
 - JavaScript
-- CSS
-- Vite
-
----
+- CSS3
+  
 
 ## Getting Started
 
+Follow the steps below to run the project locally.
+
 ### Clone the Repository
 
-```sh
+```bash
 git clone https://github.com/rushikesh-auti/Calculator.git
 cd Calculator
 ```
 
----
-
 ### Install Dependencies
 
-```sh
+```bash
 npm install
 ```
 
----
+### Run Development Server
 
-### Start Development Server
-
-```sh
+```bash
 npm run dev
 ```
 
@@ -60,44 +56,41 @@ Open your browser and visit:
 http://localhost:5173
 ```
 
----
-
 ## Project Structure
 
 ```
-Calculator/
-├── src/
-│   ├── components/
+Calculator
+│
+├── src
+│   ├── components
 │   ├── App.jsx
 │   ├── App.css
 │   └── main.jsx
+│
 ├── index.html
 ├── package.json
 ├── package-lock.json
 └── vite.config.js
 ```
 
----
-
 ## Learning Outcomes
 
 - Building reusable components in React
-- Managing UI state and application logic
+- Managing application state and user input
 - Implementing responsive layouts
-- Styling modern interfaces using CSS
-- Using Vite for efficient React development
+- Structuring a React project using Vite
+- Applying CSS for modern UI design
 
----
 
 ## Preview
 
 <img width="1905" height="905" alt="Calculator Preview" src="https://github.com/user-attachments/assets/12eff995-df3f-4d4c-ba6d-fbc3090f8c2e" />
 
----
 
-## Author
+## Future Improvements
 
-Rushikesh Auti
-=======
-Developed a responsive calculator application using React and CSS with support for basic arithmetic operations and a modern UI.
->>>>>>> 8be890e (Initial commit)
+- Add keyboard input support
+- Implement scientific calculator features
+- Improve UI animations
+- Add automated testing
+
